@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - SolidObjects
+  - LongGrass
+  - Player
+  - SouthSlope
+  - WestSlope
+  - EastSlope
+  - NorthSlope
+  - Pikachu
+  - Ledges
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: buffer
+    uniqueID: 1140950635
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: underLay
+    uniqueID: 1567333301
+    locked: 0
+  - name: water
+    uniqueID: 2740756857
+    locked: 0
+  - name: Background
+    uniqueID: 3050986489
+    locked: 0
+  - name: grass
+    uniqueID: 4004122149
+    locked: 0
+  - name: OverBackground
+    uniqueID: 3624659885
+    locked: 0
+  - name: mapTest
+    uniqueID: 1645680835
+    locked: 0
+  - name: NPC
+    uniqueID: 61398231
+    locked: 0
+  - name: Player
+    uniqueID: 1998437535
+    locked: 0
+  - name: Foreground
+    uniqueID: 1897183459
+    locked: 0
+  - name: OverWater
+    uniqueID: 1393190097
+    locked: 0
+  - name: OverLay
+    uniqueID: 1555985239
+    locked: 0
+  - name: Trees
+    uniqueID: 2617933957
+    locked: 0

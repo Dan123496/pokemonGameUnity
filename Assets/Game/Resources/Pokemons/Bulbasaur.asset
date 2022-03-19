@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Bulbasaur
+  m_EditorClassIdentifier: 
+  dexNumber: 1
+  name: Bulbasaur
+  description: 
+  frontSprite:
+  - {fileID: 6229639675236975789, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 8861357890569025004, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 5286168957496817958, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 3665324734813035302, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 2239692734555081006, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -4574840677986908676, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -7525403081560755776, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 7785891091198188730, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 1572958136533495776, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 7826182433586593485, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 1283110892116972929, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 6229639675236975789, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 8861357890569025004, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 5286168957496817958, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 3665324734813035302, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 2239692734555081006, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -4574840677986908676, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -7525403081560755776, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 7785891091198188730, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 1572958136533495776, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 7826182433586593485, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 1283110892116972929, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 6229639675236975789, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 8861357890569025004, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 5286168957496817958, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 3665324734813035302, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 2239692734555081006, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -4574840677986908676, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -7525403081560755776, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 7785891091198188730, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 1572958136533495776, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 7826182433586593485, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 1283110892116972929, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -7590582464975191321, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -7812092867331541398, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 4179454805821324444, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -227040462433425954, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 6879253842247122628, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 2447599025674919852, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 1767677454388823553, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 3809244168239005607, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: 546827265847351267, guid: f86407b37f884324dabea07930b38233, type: 3}
+  - {fileID: -6146187142805031217, guid: f86407b37f884324dabea07930b38233, type: 3}
+  backSprite:
+  - {fileID: 21300000, guid: 90335680d6488b646b631e518ee9ede1, type: 3}
+  type1: 5
+  type2: 8
+  maxHp: 45
+  attack: 49
+  defence: 49
+  spAttack: 65
+  spDefence: 65
+  speed: 45
+  lernableMoves:
+  - moveBase: {fileID: 11400000, guid: 187113ef8c97f8043aadc25f87698e93, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 268197f5fc5faa64bbbaf0d1656d8cdb, type: 2}
+    level: 3

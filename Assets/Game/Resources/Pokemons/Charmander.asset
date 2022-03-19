@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  dexNumber: 4
+  name: Charmander
+  description: 
+  frontSprite:
+  - {fileID: -3789883804774617698, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -2442905612798823656, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -391529913935159221, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -1528321242467560057, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 2543018872004400248, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 7117080647424898779, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 2384610963649331699, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -6417452629710722562, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -791978589069885455, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -2692243855176710967, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -2354547010137732247, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -1642510837796302157, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 3041466496208752303, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -6060404693209934138, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -7562287596569011045, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -7312530477197440664, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -4315150343724286740, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 786450471992406057, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -8983161733535740271, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -205172041607302986, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -6384839410044005431, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 1876705268377333061, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 8576534316543575357, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -7691036723968803057, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 1390760310972400872, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 6314094001979474094, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -1662750937159775181, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -99025924117120893, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 5684093117891663792, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -4045603441653445003, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 5645539643482415181, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -3044942768629301255, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 8686842693694115349, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -5080647682135602929, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 7064280484187470018, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 2128698982853179262, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: -6943429911426608535, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 2063590482368838364, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 2460257139351039786, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 963933370819157645, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 2064713881626055588, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 6479211009939887527, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 8234848610314276788, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 8425588338628685913, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  - {fileID: 6072416131999188355, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
+  backSprite:
+  - {fileID: 21300000, guid: f169d93b1a77f2f4f90b0a5be3e039e1, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 39
+  attack: 52
+  defence: 43
+  spAttack: 60
+  spDefence: 50
+  speed: 65
+  lernableMoves:
+  - moveBase: {fileID: 11400000, guid: 187113ef8c97f8043aadc25f87698e93, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fb4fa2717588ebe41b90e80813d18bb0, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4846f84c092410147a5421afa24627bd, type: 2}
+    level: 4
