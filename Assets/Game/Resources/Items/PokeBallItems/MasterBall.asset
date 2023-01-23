@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a03b96910065d418c1e8753d10c56b, type: 3}
+  m_Name: MasterBall
+  m_EditorClassIdentifier: 
+  itemName: Master Ball
+  description: "The best Pok\xE9 Ball with the ultimate level of performance. With
+    it, you will catch any wild Pok\xE9mon without fail."
+  icon: {fileID: -322911538954197422, guid: a82a6272ccfef0e41b13586aefd9be64, type: 3}
+  usedMessage: 
+  pokeballPrefab: {fileID: 1610747397487329005, guid: e1b8ae2a0a4bb29459faac9b23468ac5, type: 3}
+  catchRate: 999
+  AlwaysSucced: 1
+  fristTurn: 0
+  timer: 0
+  Repeat: 0

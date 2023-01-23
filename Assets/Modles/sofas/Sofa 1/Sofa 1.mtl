@@ -1,0 +1,8 @@
+newmtl sofa01_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka sofa01_mat.png
+map_Kd sofa01_mat.png
+map_d sofa01_mat.png

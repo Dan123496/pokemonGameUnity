@@ -1,0 +1,168 @@
+newmtl mg14_r12
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r12.png
+map_d mg14_r12.png
+newmtl mg14_r10
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r10.png
+map_d mg14_r10.png
+newmtl mg14_r11
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r11.png
+map_d mg14_r11.png
+newmtl mg14_r17
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r17.png
+map_d mg14_r17.png
+newmtl mg14_r02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r02.png
+map_d mg14_r02.png
+newmtl mg14_r03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r03.png
+map_d mg14_r03.png
+newmtl mg14_r21
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r21.png
+map_d mg14_r21.png
+newmtl mg14_r22
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r22.png
+map_d mg14_r22.png
+newmtl mg14_r22w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r22w.png
+map_d mg14_r22w.png
+newmtl mg14_r03w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r03w.png
+map_d mg14_r03w.png
+newmtl mg14_r21w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r21w.png
+map_d mg14_r21w.png
+newmtl mg14_r01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r01.png
+map_d mg14_r01.png
+newmtl mg14_r08
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r08.png
+map_d mg14_r08.png
+newmtl mg14_r14
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r14.png
+map_d mg14_r14.png
+newmtl mg14_r15
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r15.png
+map_d mg14_r15.png
+newmtl mg14_r13
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r13.png
+map_d mg14_r13.png
+newmtl mg14_r05
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r05.png
+map_d mg14_r05.png
+newmtl mg14_r06
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r06.png
+map_d mg14_r06.png
+newmtl mg14_r16
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r16.png
+map_d mg14_r16.png
+newmtl mg14_r18
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r18.png
+map_d mg14_r18.png
+newmtl mg14_r19
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r19.png
+map_d mg14_r19.png
+newmtl mg14_r20
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r20.png
+map_d mg14_r20.png
+newmtl mg14_r07
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r07.png
+map_d mg14_r07.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.2903
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl mg14_r09
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r09.png
+map_d mg14_r09.png
+newmtl mg14_r04
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r04.png
+map_d mg14_r04.png
+newmtl mg14_r04w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r04w.png
+map_d mg14_r04w.png
+newmtl mg14_r12w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mg14_r12w.png
+map_d mg14_r12w.png

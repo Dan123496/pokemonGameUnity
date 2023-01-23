@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Butterfree
+  m_EditorClassIdentifier: 
+  dexNumber: 12
+  pName: Butterfree
+  description: Its wings, covered with poisonous powder, repel water. This allows
+    it to fly in the rain.
+  frontSprite:
+  - {fileID: 3371344459839480643, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -8922549179144366714, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -5530523076774162052, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -3411911972733136833, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -7346402584710984590, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 5256640591753274551, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 7329599169528797803, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 7655835145893580933, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -4726351539037639182, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -6979808830978594227, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -5705159438059375694, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 7528182392735469003, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 6682644809520930373, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -4770139270040010705, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -8338553798059572983, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -5115708061111039408, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -4198367266531580926, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -9183472345490350833, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -3454821468309437626, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 845858124881960599, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 9039238803403676973, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 6120363296071030149, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -8138620587040172094, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 5477624109408055607, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -7121781605039572747, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -1360351246468024510, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 4272538307969289495, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 8413672537972436430, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -8654216100466637445, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 600296052473436877, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -5643973930208589424, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 5063879596410122421, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -1007700039705471794, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 848768017740817404, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -2507976861943193248, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -7889008461109198175, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 7020210996259862903, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 2440443238909897146, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -5359931467312080009, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 4843494097029094627, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -3109823848555285222, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -6134848050800561369, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: -2502736108703974718, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 2642147281775701838, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 46989222209888524, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  - {fileID: 3914298955403614335, guid: 7bd734d665951884bad4a740cbb46a0b, type: 3}
+  backSprite:
+  - {fileID: 3371344459839480643, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -8922549179144366714, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -5530523076774162052, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -3411911972733136833, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -7346402584710984590, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: 5256640591753274551, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: 7329599169528797803, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: 7655835145893580933, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -4726351539037639182, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -6979808830978594227, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -5705159438059375694, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: 7528182392735469003, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: 6682644809520930373, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -4770139270040010705, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  - {fileID: -8338553798059572983, guid: feee78cc98589224194c9afe0af451b7, type: 3}
+  icon: {fileID: -3758952474528876319, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
+  type1: 12
+  type2: 10
+  maxHp: 60
+  attack: 45
+  defence: 50
+  spAttack: 80
+  spDefence: 80
+  speed: 70
+  expYield: 178
+  catchRate: 45
+  growth: 2
+  cry: {fileID: 8300000, guid: fb8f1ff5501825249b2b8a4608950659, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 633397e6fc75299478fd4154ffef4b65, type: 2}
+    level: 14
+  - moveBase: {fileID: 11400000, guid: a0c566e7af5a1374cbddbe60282d560b, type: 2}
+    level: 13
+  learnableByItem: []

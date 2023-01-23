@@ -6,12 +6,12 @@ public class HpBar : MonoBehaviour
 {
 
     [SerializeField] GameObject health;
-    
-    
-    
-    
+
+    bool isUpdating;
+
+
     // Start is called before the first frame update
-    
+    public bool IsUpdating => isUpdating;
 
     // Update is called once per frame
     public void SetHP(float hpNormalized)
@@ -20,6 +20,7 @@ public class HpBar : MonoBehaviour
     }
     public IEnumerator SetHPSmothly(float newHp)
     {
+        isUpdating = true;
         Debug.Log(newHp);
         float currentHp = health.transform.localScale.x;
         float changeAmount = currentHp - newHp;
@@ -32,5 +33,6 @@ public class HpBar : MonoBehaviour
             yield return null;
         }
         health.transform.localScale = new Vector3(newHp, 1f);
+        isUpdating = false;
     }
 }

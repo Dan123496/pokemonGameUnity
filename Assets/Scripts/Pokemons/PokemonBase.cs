@@ -9,15 +9,15 @@ public class PokemonBase : ScriptableObject
 {
 
     [SerializeField] float dexNumber;
-    [SerializeField]string name;
+    [SerializeField]string pName;
     
     [TextArea]
     [SerializeField] string description;
 
     [SerializeField] Sprite[] frontSprite;
     [SerializeField] Sprite[] backSprite;
- 
-    
+    [SerializeField] Sprite icon;
+
 
     [SerializeField] PokemonType type1;
     [SerializeField] PokemonType type2;
@@ -29,16 +29,49 @@ public class PokemonBase : ScriptableObject
     [SerializeField] int spDefence;
     [SerializeField] int speed;
 
-    [SerializeField] List<LernableMove> lernableMoves;
+    [SerializeField] int expYield;
+    [SerializeField] int catchRate=255;
 
+    [SerializeField] GrowthRate growth;
 
+    [SerializeField] AudioClip cry;
+
+    [SerializeField] List<LearnableMove> learnableMoves;
+    [SerializeField] List<MoveBase> learnableByItem;
+
+    [SerializeField] public static int MaxMoves { get; set; } = 4;
+
+    public int ExpForLevel(int level)
+    {
+        
+        if (growth == GrowthRate.fast)
+        {
+            return 4 *(level* level * level)/5;
+        }
+        else if (growth == GrowthRate.mediumFast)
+        {
+            return (level * level * level);
+        }
+        else if (growth == GrowthRate.mediumSlow)
+        {
+            return ((6 / 5) * (level * level * level)) - (15 * (level * level)) + (100 * level) - 140;
+        }
+        else if (growth == GrowthRate.slow)
+        {
+            return (5*(level*level*level))/4;
+        }
+        else
+        {
+            return -1;
+        }
+    }
     public float DexNumber
     {
         get { return dexNumber; }
     }
     public string Name
     {
-        get { return name; }
+        get { return pName; }
     }
     public string Description
     {
@@ -51,6 +84,10 @@ public class PokemonBase : ScriptableObject
     public Sprite[] BackSprite
     {
         get { return backSprite; }
+    }
+    public Sprite Icon
+    {
+        get { return icon; }
     }
     public PokemonType Type1
     {
@@ -84,9 +121,25 @@ public class PokemonBase : ScriptableObject
     {
         get { return speed; }
     }
+    public int CatchRate
+    {
+        get { return catchRate; }
+    }
+    public int ExpYield
+    {
+        get { return expYield; }
+    }
+    public AudioClip Cry
+    {
+        get { return cry; }
+    }
+    public GrowthRate Growth
+    {
+        get { return growth; }
+    }
 
     [System.Serializable]
-    public class LernableMove
+    public class LearnableMove
     {
         [SerializeField] MoveBase moveBase;
         [SerializeField] int level;
@@ -102,21 +155,27 @@ public class PokemonBase : ScriptableObject
     }
     
 
-    public List<LernableMove> LernableMoves
+    public List<LearnableMove> LernableMoves
     {
-        get { return lernableMoves; }
+        get { return learnableMoves; }
     }
 
-
-
-    
-
-   
-
-
-
+    public List<MoveBase> LearnableByItem => learnableByItem;
 
 }
+public enum Stat
+{
+    Attack,
+    Defence,
+    SpAttack,
+    SpDefence,
+    Speed,
+
+    //accuracy Modifiers, not stats
+    Accuracy,
+    Evasion
+}
+
 public enum PokemonType
 {
     None,
@@ -138,7 +197,15 @@ public enum PokemonType
     Dark,
     Steel,
     Fairy
-
+}
+public enum GrowthRate
+{
+    eratic, 
+    fast,
+    mediumFast, 
+    mediumSlow, 
+    slow, 
+    fluctating
 }
 public class TypeChart
 {
@@ -200,3 +267,5 @@ public class TypeChart
     }
 
 }
+
+

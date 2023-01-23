@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public enum BattleState { Start, PlayerAction, PlayerMove, EnemyMove, Busy }
+
 public class BattleDialogBox : MonoBehaviour
 {
     [SerializeField] Text dialogText;
@@ -16,7 +16,8 @@ public class BattleDialogBox : MonoBehaviour
     public Sprite physical;
     public Sprite special;
     public Sprite status;
-
+    bool isTyping = false;
+    bool stop = false;
 
     [SerializeField] List<Text> moveTexts;
 
@@ -26,6 +27,18 @@ public class BattleDialogBox : MonoBehaviour
 
     BattleState state;
 
+    public bool IsTyping()
+    {
+        return isTyping;
+    }
+    public void Stop()
+    {
+        stop =true;
+    }
+    public void Go()
+    {
+        stop = false;
+    }
     public void SetDialog(string dialog)
     {
         dialogText.text = dialog;
@@ -33,13 +46,44 @@ public class BattleDialogBox : MonoBehaviour
     public IEnumerator TypeDialog(string dialog)
     {
         dialogText.text = "";
+        isTyping = true;
         foreach (var letter in dialog.ToCharArray())
         {
+            if(stop == true)
+            {
+                isTyping = false;
+                stop = false;
+                yield break;
+            }
             dialogText.text += letter;
             yield return new WaitForSeconds(1f /letterPerSecond);
         }
         yield return new WaitForSeconds(1f);
+        isTyping = false;
 
+    }
+    public IEnumerator ShowDialogML(Dialog dialog)
+    {
+        dialogText.text = "";
+        isTyping = true;
+
+        foreach (var line in dialog.Lines)
+        {
+            yield return (TypeDialogML(line));
+            yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.Z));
+        }
+        yield return new WaitForSeconds(1f);
+        isTyping = false;
+
+    }
+    public IEnumerator TypeDialogML(string line)
+    {
+        dialogText.text = "";
+        foreach (var letter in line.ToCharArray())
+        {
+            dialogText.text += letter;
+            yield return new WaitForSeconds(1f / letterPerSecond);
+        }
     }
     public void EnableDialogText(bool enabled)
     {
@@ -91,10 +135,17 @@ public class BattleDialogBox : MonoBehaviour
             {
                 catagory.sprite = status;
             }
-
+            if (move.PP <= 0)
+            {
+                ppText.color = Color.red;
+                maxPpText.color = Color.red;
+            }
+            else
+            {
+                ppText.color = Color.black;
+                maxPpText.color = Color.black;
+            }
         }
-        
-
     }
 
 }

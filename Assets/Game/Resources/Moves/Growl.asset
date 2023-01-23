@@ -12,10 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87b07dbeb83543f49924d4786651d5d1, type: 3}
   m_Name: Growl
   m_EditorClassIdentifier: 
-  name: Growl
-  description: 
+  moveName: Growl
+  description: "The user growls in an endearing way, making opposing Pok\xE9mon less
+    wary. This lowers their Attack stats.\r"
   type: 1
   power: 0
   accuary: 100
+  alwaysHits: 0
   pp: 40
+  priority: 0
   moveCategory: 3
+  effects:
+    boosts:
+    - stat: 0
+      boost: -1
+    staus: 0
+    volatileStaus: 0
+  secondaryEffects: []
+  target: 0

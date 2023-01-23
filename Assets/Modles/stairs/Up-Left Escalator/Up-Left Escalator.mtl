@@ -1,0 +1,24 @@
+newmtl esca_up1
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka esca_up1.png
+map_Kd esca_up1.png
+map_d esca_up1.png
+newmtl esca_up2
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka esca_up2.png
+map_Kd esca_up2.png
+map_d esca_up2.png
+newmtl pc_esca
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka pc_esca.png
+map_Kd pc_esca.png
+map_d pc_esca.png

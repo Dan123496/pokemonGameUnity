@@ -1,0 +1,24 @@
+newmtl pc_moni
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka pc_moni.png
+map_Kd pc_moni.png
+map_d pc_moni.png
+newmtl shade
+Ka 0 0 0
+Kd 0.2509804 0.3137255 0.4078431
+d 0.3870968
+Tr 0.3870968
+map_Ka shade.png
+map_Kd shade.png
+map_d shade.png
+newmtl table_l01_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka table_l01_mat.png
+map_Kd table_l01_mat.png
+map_d table_l01_mat.png

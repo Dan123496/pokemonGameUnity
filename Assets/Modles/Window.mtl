@@ -1,0 +1,16 @@
+newmtl window01_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka window01_mat.png
+map_Kd window01_mat.png
+map_d window01_mat.png
+newmtl window02_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka window02_mat.png
+map_Kd window02_mat.png
+map_d window02_mat.png

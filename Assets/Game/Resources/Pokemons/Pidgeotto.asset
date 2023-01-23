@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Pidgeotto
+  m_EditorClassIdentifier: 
+  dexNumber: 17
+  pName: Pidgeotto
+  description: "This Pok\xE9mon is full of vitality. It constantly flies around its
+    large territory in search of prey."
+  frontSprite:
+  - {fileID: 7310847274716718614, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 4184617529952469142, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 3944692633045598921, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -6456042263233761421, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -6347644373468540587, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -3779785798551187519, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -1268650567948609452, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 8500271194227161543, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 2430652518839243671, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -6205602956608775273, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 2252893883299664690, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -1517208315932590484, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -812640632489211050, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 8885130919834504113, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -1006146514149364249, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 3617677538518949660, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: -2561492700404382854, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  - {fileID: 2290222623835418945, guid: f9154b8969855974f8fb0e940d53f40f, type: 3}
+  backSprite:
+  - {fileID: 7310847274716718614, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 4184617529952469142, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 3944692633045598921, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -6456042263233761421, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -6347644373468540587, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -3779785798551187519, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -1268650567948609452, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 8500271194227161543, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 2430652518839243671, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -6205602956608775273, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 2252893883299664690, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -1517208315932590484, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -812640632489211050, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 8885130919834504113, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -1006146514149364249, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 3617677538518949660, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: -2561492700404382854, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  - {fileID: 2290222623835418945, guid: bf42d8ff9d9001c42be427de58508e44, type: 3}
+  icon: {fileID: -7609460240954018468, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 63
+  attack: 60
+  defence: 55
+  spAttack: 50
+  spDefence: 50
+  speed: 71
+  expYield: 122
+  catchRate: 120
+  growth: 3
+  cry: {fileID: 8300000, guid: bf58476e695d02949bb9739f33f3516b, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 473e4767eafe712499ab5c0e75eb6ea4, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1565c7bf82a969942afa6af4ec223f1b, type: 2}
+    level: 1
+  learnableByItem: []

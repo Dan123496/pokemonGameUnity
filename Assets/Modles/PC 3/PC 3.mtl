@@ -1,0 +1,16 @@
+newmtl pc03
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka pc03.png
+map_Kd pc03.png
+map_d pc03.png
+newmtl pc03_a
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka pc03_a.png
+map_Kd pc03_a.png
+map_d pc03_a.png

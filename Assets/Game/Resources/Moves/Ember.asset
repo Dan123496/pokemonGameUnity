@@ -12,10 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87b07dbeb83543f49924d4786651d5d1, type: 3}
   m_Name: Ember
   m_EditorClassIdentifier: 
-  name: Ember
-  description: 
+  moveName: Ember
+  description: The target is attacked with small flames. This may also leave the
+    target with a burn.
   type: 2
   power: 40
   accuary: 100
+  alwaysHits: 0
   pp: 25
+  priority: 0
   moveCategory: 2
+  effects:
+    boosts: []
+    staus: 0
+    volatileStaus: 0
+  secondaryEffects:
+  - boosts: []
+    staus: 2
+    volatileStaus: 0
+    chance: 10
+    target: 0
+  target: 0

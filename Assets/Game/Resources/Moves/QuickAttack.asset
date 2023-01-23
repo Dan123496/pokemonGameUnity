@@ -12,10 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87b07dbeb83543f49924d4786651d5d1, type: 3}
   m_Name: QuickAttack
   m_EditorClassIdentifier: 
-  name: Quick Attack
-  description: 
+  moveName: QuickAttack
+  description: The user lunges at the target at a speed that makes it almost invisible.
+    This move usually goes first. +1 Priority
   type: 1
   power: 40
   accuary: 100
+  alwaysHits: 0
   pp: 30
+  priority: 1
   moveCategory: 1
+  effects:
+    boosts: []
+    staus: 0
+    volatileStaus: 0
+  secondaryEffects: []
+  target: 0

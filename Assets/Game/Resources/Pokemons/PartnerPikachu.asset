@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PartnerPikachu
   m_EditorClassIdentifier: 
   dexNumber: 25.1
-  name: Pikachu
+  pName: Pikachu
   description: Your Partner Pikachu!   He is  unusaly strong for a pikachu !
   frontSprite:
   - {fileID: 21300000, guid: b48d4482e6b6b2e40813ea269ef3240f, type: 3}
@@ -81,20 +81,30 @@ MonoBehaviour:
   - {fileID: -8863576456548643358, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
   - {fileID: 9092805010251373040, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
   - {fileID: -7491861836386941703, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  icon: {fileID: 21300000, guid: 8b6d937eb856fdd49a326625d20fc9e1, type: 3}
   type1: 4
   type2: 0
-  maxHp: 50
+  maxHp: 45
   attack: 80
   defence: 50
   spAttack: 80
   spDefence: 60
   speed: 120
-  lernableMoves:
-  - moveBase: {fileID: 11400000, guid: c2382999b71d8c240a4f45836301c85a, type: 2}
+  expYield: 190
+  catchRate: 255
+  growth: 2
+  cry: {fileID: 8300000, guid: e9a711c94da2e5f418c77ba9f23e9876, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 187113ef8c97f8043aadc25f87698e93, type: 2}
     level: 1
   - moveBase: {fileID: 11400000, guid: 1565c7bf82a969942afa6af4ec223f1b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c2382999b71d8c240a4f45836301c85a, type: 2}
     level: 1
   - moveBase: {fileID: 11400000, guid: e1166e51a56262a4ea77c24aa6f25c2c, type: 2}
     level: 1
   - moveBase: {fileID: 11400000, guid: eea12e5977aefbb43ae5602f33676d76, type: 2}
-    level: 4
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 1612f036b7403f445be7aab559a87902, type: 2}
+    level: 25
+  learnableByItem: []

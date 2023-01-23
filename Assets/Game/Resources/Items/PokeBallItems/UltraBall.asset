@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a03b96910065d418c1e8753d10c56b, type: 3}
+  m_Name: UltraBall
+  m_EditorClassIdentifier: 
+  itemName: Ultra Ball
+  description: "An ultra-high-performance Pok\xE9 Ball that provides a higher success
+    rate for catching Pok\xE9mon than a Great Ball. A catch rate of 2."
+  icon: {fileID: 7241009549545775570, guid: a82a6272ccfef0e41b13586aefd9be64, type: 3}
+  usedMessage: 
+  pokeballPrefab: {fileID: 1610747397487329005, guid: 03b2ca40bdac2984195da0574a5faa20, type: 3}
+  catchRate: 2
+  AlwaysSucced: 0
+  fristTurn: 0
+  timer: 0
+  Repeat: 0

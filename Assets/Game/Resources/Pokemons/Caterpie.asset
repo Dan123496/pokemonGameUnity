@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Caterpie
+  m_EditorClassIdentifier: 
+  dexNumber: 10
+  pName: Caterpie
+  description: If you touch the feeler on top of its head, it will release a horrible
+    stink to protect itself.
+  frontSprite:
+  - {fileID: 3377593883505760119, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: -3074088014516810688, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: 8484250793542546471, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: 4063567322393540491, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: -7478020107234654811, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: 9104145534176698343, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: -2290628005750393671, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: -442428571275195745, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  - {fileID: 3377593883505760119, guid: 78e39a986719e2f47ac88e4cb582963a, type: 3}
+  backSprite:
+  - {fileID: 3377593883505760119, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: -3074088014516810688, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: 8484250793542546471, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: 4063567322393540491, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: -7478020107234654811, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: 9104145534176698343, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: -2290628005750393671, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: -442428571275195745, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  - {fileID: 3377593883505760119, guid: 73cd1696ff4b08840b081260531a8f9a, type: 3}
+  icon: {fileID: -476805481122778748, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
+  type1: 12
+  type2: 0
+  maxHp: 45
+  attack: 30
+  defence: 35
+  spAttack: 20
+  spDefence: 20
+  speed: 45
+  expYield: 39
+  catchRate: 255
+  growth: 2
+  cry: {fileID: 8300000, guid: a09b575a45e9ea0429be017b822c158c, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  learnableByItem: []

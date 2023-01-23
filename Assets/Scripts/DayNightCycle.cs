@@ -15,15 +15,29 @@ public class DayNightCycle : MonoBehaviour
     float timer;
     float angleTimer;
     [Range (0,24)]
-    public float timeOfDay = 12;
+    public float timeOfDay;
     float sTimer;
+    public bool outSide;
     // Start is called before the first frame update
     void Start()
     {
+        sun = gameObject;
+        if(timeOfDay == 0)
+        {
+            timeOfDay = 8;
+        }
         secondsPerHour = secondsPerMin * 60;
         secondsPerDay = secondsPerHour * 24;
         hour = (int)timeOfDay;
-
+        /*
+        var Suns = GameObject.FindGameObjectsWithTag("Sun");
+        foreach(var sun in Suns)
+        {
+            if(sun != this.gameObject)
+            {
+                this.gameObject.SetActive(false);
+            }
+        }*/
     }
 
     // Update is called once per frame
@@ -69,6 +83,18 @@ public class DayNightCycle : MonoBehaviour
     }
     void SunUpdate()
     {
-        sun.transform.localRotation = Quaternion.Euler(((timeOfDay / 24) * 360f) - 90, 70, 0);
+        if (outSide)
+        {
+            sun.transform.localRotation = Quaternion.Euler(((timeOfDay / 24) * 360f) - 90, 70, 0);
+        }
+        
+    }
+    public void SetTimeOfDay(float newTime)
+    {
+        timeOfDay = newTime;
+    }
+    public float TimeOfDay
+    {
+        get { return timeOfDay; }
     }
 }

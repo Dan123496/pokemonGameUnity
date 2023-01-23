@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Bulbasaur
   m_EditorClassIdentifier: 
   dexNumber: 1
-  name: Bulbasaur
-  description: 
+  pName: Bulbasaur
+  description: It can go for days without eating a single morsel. In the bulb on
+    its back, it stores energy.
   frontSprite:
+  - {fileID: 6229639675236975789, guid: f86407b37f884324dabea07930b38233, type: 3}
   - {fileID: 6229639675236975789, guid: f86407b37f884324dabea07930b38233, type: 3}
   - {fileID: 8861357890569025004, guid: f86407b37f884324dabea07930b38233, type: 3}
   - {fileID: 5286168957496817958, guid: f86407b37f884324dabea07930b38233, type: 3}
@@ -60,7 +62,55 @@ MonoBehaviour:
   - {fileID: 546827265847351267, guid: f86407b37f884324dabea07930b38233, type: 3}
   - {fileID: -6146187142805031217, guid: f86407b37f884324dabea07930b38233, type: 3}
   backSprite:
-  - {fileID: 21300000, guid: 90335680d6488b646b631e518ee9ede1, type: 3}
+  - {fileID: 6376744228999676651, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -5584453346995894811, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 2957242022894747642, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -4535640405056144633, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -2526057100156094540, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -2783678786100782752, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -6618627332979397024, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 6951757088548911043, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 1507753552596635559, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -3280590832875284992, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 1318265111274590010, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -8136627359424518382, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 6376744228999676651, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -5584453346995894811, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 2957242022894747642, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -4535640405056144633, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -2526057100156094540, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -2783678786100782752, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -6618627332979397024, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 6951757088548911043, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 1507753552596635559, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -3280590832875284992, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 1318265111274590010, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -8136627359424518382, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 6376744228999676651, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -5584453346995894811, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 2957242022894747642, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -4535640405056144633, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -2526057100156094540, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -2783678786100782752, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -6618627332979397024, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 6951757088548911043, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 1507753552596635559, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -3280590832875284992, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 1318265111274590010, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -8136627359424518382, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 3108989972105641907, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 6095796064281464895, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -363926981039782947, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -131520603498435441, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 7475584528858089479, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 2222230176137196146, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -3944129731988989512, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 2149174356565520763, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -8637674841570874572, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: -909510643659313705, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 5237871713718693312, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  - {fileID: 1167331508879432306, guid: 537d4c6960fde8e4baa37a3571900edb, type: 3}
+  icon: {fileID: -4104159837911797627, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
   type1: 5
   type2: 8
   maxHp: 45
@@ -69,10 +119,21 @@ MonoBehaviour:
   spAttack: 65
   spDefence: 65
   speed: 45
-  lernableMoves:
+  expYield: 64
+  catchRate: 255
+  growth: 3
+  cry: {fileID: 8300000, guid: 2f18a58a00d2e9549b718f4f8bc3f905, type: 3}
+  learnableMoves:
   - moveBase: {fileID: 11400000, guid: 187113ef8c97f8043aadc25f87698e93, type: 2}
     level: 1
   - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
     level: 1
   - moveBase: {fileID: 11400000, guid: 268197f5fc5faa64bbbaf0d1656d8cdb, type: 2}
-    level: 3
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 268197f5fc5faa64bbbaf0d1656d8cdb, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: a0c566e7af5a1374cbddbe60282d560b, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 633397e6fc75299478fd4154ffef4b65, type: 2}
+    level: 10
+  learnableByItem: []

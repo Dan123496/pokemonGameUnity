@@ -6,6 +6,48 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/PalletInteror.unity
+    guid: 510f1f22469f7304b849d0c41677e3c3
+  - enabled: 1
+    path: Assets/Scenes/PalletTown.unity
+    guid: b82e63dbc46012d4ba50f5df0da8db39
+  - enabled: 1
+    path: Assets/Scenes/Route1.unity
+    guid: b4a0d46750b74f44b99c18f8ed30eea2
+  - enabled: 1
+    path: Assets/Scenes/Route21.unity
+    guid: f86fa68763ebed34f832db3dc248b389
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 07d8499dcccfec441a366ff49b7faa79
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: d7db2b421bd0646458133ae3d2cbf30e
+  - enabled: 1
+    path: Assets/Scenes/ViridianCity.unity
+    guid: 7d47dd5ceca495d4588c8d5571e5bee1
+  - enabled: 1
+    path: Assets/Scenes/Route2.unity
+    guid: 364e76c1eeb204b49bb1079432653d1d
+  - enabled: 1
+    path: Assets/Scenes/PokemonCenters.unity
+    guid: f0302ad52066ae6438ccd1a23bd00bc9
+  - enabled: 1
+    path: Assets/Scenes/Pokemarts.unity
+    guid: b3ffa90915c213c4b848430d111a1def
+  - enabled: 1
+    path: Assets/Scenes/PewterCity.unity
+    guid: bbc432cdf63a9e44ead5b67ece4cdb5c
+  - enabled: 1
+    path: Assets/Scenes/ViridianForest.unity
+    guid: 68f9f278e14b255438126ea65ec53cbc
+  - enabled: 1
+    path: Assets/Scenes/PewterCityInteror.unity
+    guid: 6b4c72615c55cfb4bbe2a235424abccf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Route2Part2.unity
+    guid: 8f83eea39bb570a4189755473f304c2d
   m_configObjects: {}

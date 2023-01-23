@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Beedrill
+  m_EditorClassIdentifier: 
+  dexNumber: 15
+  pName: Beedrill
+  description: Its wings, covered with poisonous powder, repel water. This allows
+    it to fly in the rain.
+  frontSprite:
+  - {fileID: -2878177876837091985, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -1188625067471657948, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 6379247730301929311, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -7257275434682047146, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -8454993983318022229, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -845873398092917849, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 4779138656770130362, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 2415438909595026619, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 3429205173419366052, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 3187744313487473647, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 2627561581679106013, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 6569895430995155547, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 4794206890476222556, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 8681159283769601317, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -6427601805203505818, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -3491686081033334204, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 4175433954859322321, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 9036415299513692792, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -615608352933758486, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 9190384650234150449, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 594609421205104223, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -2432663665933171603, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -3013206043123248778, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 3254928034007131168, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -789723822129819483, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -5974968697735781436, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 5587646927821666174, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -6638226979678930194, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -7808597000690054106, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 555310375480845429, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: -8465336950845744329, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 7272831023086355975, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 2877169442445760432, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 1970099624380964416, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 37217440001087648, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  - {fileID: 4807555567447286185, guid: 132c8910a4946724eb9b30e39e1ac291, type: 3}
+  backSprite:
+  - {fileID: -2878177876837091985, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -1188625067471657948, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 6379247730301929311, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -7257275434682047146, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -8454993983318022229, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -845873398092917849, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 4779138656770130362, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 2415438909595026619, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 3429205173419366052, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 3187744313487473647, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 2627561581679106013, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 6569895430995155547, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 4794206890476222556, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 8681159283769601317, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -6427601805203505818, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -3491686081033334204, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 4175433954859322321, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 9036415299513692792, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -615608352933758486, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 9190384650234150449, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 594609421205104223, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -2432663665933171603, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -3013206043123248778, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 3254928034007131168, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -789723822129819483, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -5974968697735781436, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 5587646927821666174, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -6638226979678930194, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -7808597000690054106, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: 555310375480845429, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  - {fileID: -8465336950845744329, guid: 4dcf2dc873e4cdd4cb3bfc24ad70b632, type: 3}
+  icon: {fileID: -8868123270698011653, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
+  type1: 12
+  type2: 8
+  maxHp: 65
+  attack: 80
+  defence: 40
+  spAttack: 45
+  spDefence: 80
+  speed: 75
+  expYield: 178
+  catchRate: 45
+  growth: 2
+  cry: {fileID: 8300000, guid: c6f546ef78d71bd4aa125b0ca58cf319, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  learnableByItem: []

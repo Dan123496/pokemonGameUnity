@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 193667870462825988}
   m_LocalRotation: {x: 0.42261827, y: 0, z: 0, w: 0.9063079}
-  m_LocalPosition: {x: 0, y: 0.3, z: 0.25}
+  m_LocalPosition: {x: 0, y: 0.3, z: -0.17}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8311352730014048243}
@@ -92,6 +92,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8311352730014048243}
   - component: {fileID: 9171533844517518510}
+  - component: {fileID: -2767764259917978452}
   m_Layer: 0
   m_Name: LedgeSouthRight
   m_TagString: Untagged
@@ -127,3 +128,17 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.99, y: 1, z: 0.99}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-2767764259917978452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8118183570084432263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1c273412a12c04da2cbb492a8d4f10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xDir: -1
+  yDir: 0

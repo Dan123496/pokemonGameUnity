@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Geodude
+  m_EditorClassIdentifier: 
+  dexNumber: 74
+  pName: Geodude
+  description: 'Commonly found near mountain trails and the like. If you step on
+    one by accident, it gets angry. '
+  frontSprite:
+  - {fileID: 64320016150191101, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -8522468296664062792, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -5031110686391282672, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 6945975929395132858, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -3055475639899771003, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 1923929128463122513, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 825812005549814344, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 5788726890400367487, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 4660025596392672257, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -121761676919928241, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 622182733902172271, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -5620996076255996376, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -8636780395889730077, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 4271273361190907944, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 898798898906318913, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 8141908408910342364, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 9058396724211915595, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 557334529832498117, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 3356010357502658365, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -5396170513431263224, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -2970150792788810343, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 7295591972383176470, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -3605438723389323562, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -421055152176448114, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 7741066861386129182, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 2605861331972329928, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 5990171653776462424, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 5543493469134043364, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 953689387749751445, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -7575428388026291240, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 2996673263201403073, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -5090977809506926867, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -8796946364011228607, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 2377872565154227409, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 6687987245618475921, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 5205150811605132039, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 7478728926892714148, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 4003575901540783583, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 8910901218554112982, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -4790018415810144118, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 4055036493180040575, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -4654823842454666396, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -8917696382907383203, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 5432057264165975487, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 7254038480091109800, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -671171942847460589, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -2339663074567743849, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 7205384285766365544, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 4607825240819226052, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -7130959768554632816, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 158687101350908975, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 8387265628541728384, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 6098192072905194927, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: -1379918455710936486, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  - {fileID: 8061972867744642773, guid: e7c0117804c27774dba74df3988d8f53, type: 3}
+  backSprite:
+  - {fileID: 21300000, guid: 6cf5765c603da754991f117e526fd1ce, type: 3}
+  icon: {fileID: 1943830511837635658, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
+  type1: 13
+  type2: 9
+  maxHp: 40
+  attack: 80
+  defence: 100
+  spAttack: 30
+  spDefence: 30
+  speed: 20
+  expYield: 60
+  catchRate: 255
+  growth: 3
+  cry: {fileID: 8300000, guid: 4972343c91c213243b983df4ff9d34df, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  learnableByItem: []

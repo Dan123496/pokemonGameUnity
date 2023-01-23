@@ -1,0 +1,16 @@
+newmtl stair01_1_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka stair01_1_mat.png
+map_Kd stair01_1_mat.png
+map_d stair01_1_mat.png
+newmtl stair01_2_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka stair01_2_mat.png
+map_Kd stair01_2_mat.png
+map_d stair01_2_mat.png

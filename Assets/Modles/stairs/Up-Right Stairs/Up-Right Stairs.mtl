@@ -1,0 +1,24 @@
+newmtl shade
+Ka 0 0 0
+Kd 0.2509804 0.3137255 0.4078431
+d 0.3870968
+Tr 0.3870968
+map_Ka shade.png
+map_Kd shade.png
+map_d shade.png
+newmtl stair01_1_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka stair01_1_mat.png
+map_Kd stair01_1_mat.png
+map_d stair01_1_mat.png
+newmtl stair01_2_mat
+Ka 0.972549 0.972549 0.972549
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka stair01_2_mat.png
+map_Kd stair01_2_mat.png
+map_d stair01_2_mat.png

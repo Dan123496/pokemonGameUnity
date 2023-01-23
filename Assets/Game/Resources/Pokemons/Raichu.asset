@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Raichu
+  m_EditorClassIdentifier: 
+  dexNumber: 26
+  pName: Raichu
+  description: When electricity builds up inside its body, it becomes feisty. It
+    also glows in the dark.
+  frontSprite:
+  - {fileID: 21300000, guid: b48d4482e6b6b2e40813ea269ef3240f, type: 3}
+  backSprite:
+  - {fileID: -1312624485615780774, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 4369422381573891657, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -739103585355388453, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 8981892699075815060, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -7038810225789078427, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -7872625996535759756, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 8646748884883196519, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 7206915490175289281, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 9046056707140050052, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 3258323294899987276, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -2420495111992915328, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -6101966079109929733, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 7950480209263457942, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 2910976911292654049, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -7901132883085675868, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -7746201726825430982, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -3325300254846846401, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -5660567706780367189, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 8995096668014639431, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 8192472449424352990, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -1040570080297939650, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 1609710341157443302, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -8682118009192828879, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 4462579912054244701, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -941112694430931773, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -3415854590925908591, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 2736645864086958739, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 6391077538871778899, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -6129163742539963633, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -1945957736667072706, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -1244379942301584241, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -6773127341053156182, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -3608005712532803740, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -5218733288625819146, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 8746463975820393401, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -8687796516159874554, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -2726354873546574610, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 4929490267450843481, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 9174040218414886423, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 667264214930695116, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 6094847378087026494, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 1419851337465930702, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 7066942017624172176, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -8042235291528385597, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -8997788029837488201, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 8559901301842270040, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -6258672840310184131, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -1799113476091107197, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -4018998689348583782, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 5506277478302427807, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 2810377481674682118, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -8695691744705048009, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 4625030450099573864, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -2604866777303440577, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -5150709033158609014, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -1756333989321711037, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 6202727074321478593, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 5771711378044740791, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 5231044496534584954, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 517116842854341095, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -8863576456548643358, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: 9092805010251373040, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  - {fileID: -7491861836386941703, guid: 77e9dbc8038e344489efb0c8ec38179b, type: 3}
+  icon: {fileID: 21300000, guid: 8b6d937eb856fdd49a326625d20fc9e1, type: 3}
+  type1: 4
+  type2: 0
+  maxHp: 60
+  attack: 90
+  defence: 55
+  spAttack: 90
+  spDefence: 80
+  speed: 110
+  expYield: 218
+  catchRate: 75
+  growth: 2
+  cry: {fileID: 8300000, guid: 0dd22bba1f254404a81a767ba2f5c571, type: 3}
+  lernableMoves:
+  - moveBase: {fileID: 11400000, guid: 1565c7bf82a969942afa6af4ec223f1b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c2382999b71d8c240a4f45836301c85a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e1166e51a56262a4ea77c24aa6f25c2c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: eea12e5977aefbb43ae5602f33676d76, type: 2}
+    level: 4

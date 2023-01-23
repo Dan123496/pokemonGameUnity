@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Charmander
   m_EditorClassIdentifier: 
   dexNumber: 4
-  name: Charmander
-  description: 
+  pName: Charmander
+  description: The flame at the tip of its tail makes a sound as it burns. You can
+    only hear it in quiet places.
   frontSprite:
+  - {fileID: -3789883804774617698, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
   - {fileID: -3789883804774617698, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
   - {fileID: -2442905612798823656, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
   - {fileID: -391529913935159221, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
@@ -62,7 +64,47 @@ MonoBehaviour:
   - {fileID: 8425588338628685913, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
   - {fileID: 6072416131999188355, guid: f3780e3305a1bbb4d98a252b7ff0f535, type: 3}
   backSprite:
-  - {fileID: 21300000, guid: f169d93b1a77f2f4f90b0a5be3e039e1, type: 3}
+  - {fileID: -7068587632436528966, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -2895433316583241985, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -1072101782703372016, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -2677843110245407608, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 2550025389166293778, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -7877714247915293276, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 7117988400217093429, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 1737360138697412486, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 3717423326849452922, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -2885758181993395513, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -4846354837211092742, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -5012449960210323250, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -1918222324512677714, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -4139978514788350805, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -6613176919949655950, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 1017034403218681384, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 8911351817838480897, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -2852275316787293889, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -5280617589715617164, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -3993778365850907609, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 340480437715551296, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -7027310251988578074, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -5475457906647334798, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 5235675866029220874, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -6651197485355445087, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -168341052670176041, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -803425637186083755, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -4124018927541779385, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 5521070624703233722, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 8529745414070842132, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 7546622900816439653, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 2819377621050833813, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -5186961572806446703, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -7927546473359524123, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 5679724431553771715, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -6652802165107102007, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 5295363640209993273, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 304264609509530021, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: -5014493319508934156, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  - {fileID: 6652521485584148801, guid: ad1fa74966000e846b51f38609ec8be7, type: 3}
+  icon: {fileID: -5958023371836151133, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
   type1: 2
   type2: 0
   maxHp: 39
@@ -71,10 +113,18 @@ MonoBehaviour:
   spAttack: 60
   spDefence: 50
   speed: 65
-  lernableMoves:
+  expYield: 62
+  catchRate: 255
+  growth: 3
+  cry: {fileID: 8300000, guid: 2269bdebd8b234c4fa3796532a64c6a8, type: 3}
+  learnableMoves:
   - moveBase: {fileID: 11400000, guid: 187113ef8c97f8043aadc25f87698e93, type: 2}
     level: 1
   - moveBase: {fileID: 11400000, guid: fb4fa2717588ebe41b90e80813d18bb0, type: 2}
     level: 1
   - moveBase: {fileID: 11400000, guid: 4846f84c092410147a5421afa24627bd, type: 2}
     level: 4
+  - moveBase: {fileID: 11400000, guid: 14780e8e327582d45b9d486f6265b662, type: 2}
+    level: 20
+  learnableByItem:
+  - {fileID: 11400000, guid: 14780e8e327582d45b9d486f6265b662, type: 2}

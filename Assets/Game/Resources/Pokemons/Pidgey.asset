@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Pidgey
+  m_EditorClassIdentifier: 
+  dexNumber: 16
+  pName: Pidgey
+  description: Very docile. If attacked, it will often kick up sand to protect itself
+    rather than fight back.
+  frontSprite:
+  - {fileID: -2952277616050719614, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -2952277616050719614, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -2952277616050719614, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -2952277616050719614, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 4610865114684481658, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -9146850655895627857, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -5081592656633881230, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 8887394509949159000, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 2875770864996180316, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 8342897491201460473, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -1237188772203378325, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -4673590657402614408, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 881764405715379737, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 4453960569577906326, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3232757361681385293, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 4453960569577906326, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 3660656165130831771, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -5248670008770188241, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 9195339905914868459, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -5048767664176016203, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 944261454045861081, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 965733156028980652, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -9195296013897842002, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -7643860490409675648, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 7307157661088223339, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 7518834578774437487, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: 4846297818563600683, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -1269351469006123159, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -1269351469006123159, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -1269351469006123159, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -1269351469006123159, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  - {fileID: -8255240369446678534, guid: b3e2b0d6c7e740e47939f80b98ea2832, type: 3}
+  backSprite:
+  - {fileID: 5287890828158041331, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: -5553483743267555880, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: -2512556544695239301, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 396123801979542392, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 3904782419243791606, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: -740862784128473728, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 6786428986482366327, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: -1180382402421110220, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 4226712639806036389, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: -74165216470121098, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 5287890828158041331, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 6362467645654068656, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 1079309106211300109, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: -4945757904856800180, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 8636703234241722493, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 924063899010002342, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 7911080239245446529, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 5009835178541905803, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 8947902448475610506, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: -1767487214508472559, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 6385515759266914802, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  - {fileID: 5287890828158041331, guid: e51dd497b6a85834b8b96976b9977d31, type: 3}
+  icon: {fileID: 3534344732110814448, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 40
+  attack: 45
+  defence: 40
+  spAttack: 35
+  spDefence: 35
+  speed: 56
+  expYield: 50
+  catchRate: 255
+  growth: 3
+  cry: {fileID: 8300000, guid: 1b401d4233fd2ab4ab2572b54166d9d4, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 473e4767eafe712499ab5c0e75eb6ea4, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: c2382999b71d8c240a4f45836301c85a, type: 2}
+    level: 13
+  learnableByItem: []

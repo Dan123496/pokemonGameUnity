@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - trainer
+  - door
+  - pikachu
+  - zoneTriggers
+  - SceneTransition
+  - Sun
+  - InDoorLighting
+  - DebugSpawner
+  - GameControllor
+  - UI
   layers:
   - Default
   - TransparentFX
@@ -22,9 +32,9 @@ TagManager:
   - NorthSlope
   - Pikachu
   - Ledges
-  - 
-  - 
-  - 
+  - Interactable
+  - FOVLayer
+  - Portal
   - 
   - 
   - 

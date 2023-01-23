@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e244329159c718499baee9155f7ce45, type: 3}
+  m_Name: Onix
+  m_EditorClassIdentifier: 
+  dexNumber: 95
+  pName: Onix
+  description: Burrows at high speed in search of food. The tunnels it leaves are
+    used as homes by Diglett.
+  frontSprite:
+  - {fileID: 5027721987746713484, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -6930536916320339941, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -3687329847962557130, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 844732688014355492, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -8290833488424526238, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 3329693962055919472, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -6807529376836801900, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1434760159739071348, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -715089475103278895, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 6502556484216875051, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7065103123025276579, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7467905117306778936, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 8383375036813718851, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 4274722314084366888, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1257069142627416329, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 1310818262177204610, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 3329693962055919472, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -6807529376836801900, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1434760159739071348, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -715089475103278895, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 6502556484216875051, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7065103123025276579, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7467905117306778936, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 8383375036813718851, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 4274722314084366888, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1257069142627416329, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 1310818262177204610, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 3329693962055919472, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -6807529376836801900, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1434760159739071348, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -715089475103278895, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 6502556484216875051, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7065103123025276579, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7467905117306778936, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 8383375036813718851, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 4274722314084366888, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1257069142627416329, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 1310818262177204610, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 3329693962055919472, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -6807529376836801900, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1434760159739071348, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -715089475103278895, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 6502556484216875051, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7065103123025276579, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7467905117306778936, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 8383375036813718851, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 4274722314084366888, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1257069142627416329, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 1310818262177204610, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 3329693962055919472, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -6807529376836801900, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1434760159739071348, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -715089475103278895, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 6502556484216875051, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7065103123025276579, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 7467905117306778936, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 8383375036813718851, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 4274722314084366888, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: -1257069142627416329, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  - {fileID: 1310818262177204610, guid: e03d519bdc06c7447b5b0113d4f9fa93, type: 3}
+  backSprite:
+  - {fileID: 21300000, guid: ecf99cde43101d7458af6eba9b326a01, type: 3}
+  icon: {fileID: -1031233398452302519, guid: c4e6d716c56cede48ab34bfca8822839, type: 3}
+  type1: 13
+  type2: 9
+  maxHp: 35
+  attack: 45
+  defence: 160
+  spAttack: 30
+  spDefence: 45
+  speed: 70
+  expYield: 77
+  catchRate: 45
+  growth: 2
+  cry: {fileID: 8300000, guid: ff144883d9edcc346ad8d1ee52845a5b, type: 3}
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f893c536b86577248b8386364177555e, type: 2}
+    level: 1
+  learnableByItem: []

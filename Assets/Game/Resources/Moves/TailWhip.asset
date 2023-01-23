@@ -12,10 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87b07dbeb83543f49924d4786651d5d1, type: 3}
   m_Name: TailWhip
   m_EditorClassIdentifier: 
-  name: Tail Whip
-  description: 
+  moveName: TailWhip
+  description: "The user wags its tail cutely, making opposing Pok\xE9mon less wary
+    and lowering their Defense stats."
   type: 1
   power: 0
   accuary: 100
+  alwaysHits: 0
   pp: 30
+  priority: 0
   moveCategory: 3
+  effects:
+    boosts:
+    - stat: 1
+      boost: -1
+    staus: 0
+    volatileStaus: 0
+  secondaryEffects: []
+  target: 0
